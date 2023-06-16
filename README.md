@@ -41,7 +41,7 @@ For clone and run this app, you need to have [Git](https://git-scm.com) and [Xco
 ## 🖥 Video
 
 <p align="center">
-  ![restart](https://github.com/allexis096/restart/blob/main/Restart/Assets.xcassets/GifScreen.dataset/Grava%C3%A7%C3%A3o_de_Tela_2023-06-16_%C3%A0s_12_18_14_AdobeExpress.gif)
+  ![restart](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmRyNXlyYjlzOHQ1YnJwamR5dWlweWZveWE3Nmtqc29rZ3p2dm84ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6y52pvljQxb861TfnA/giphy.gif)
 </p>
 
 ### 🌀 Cloning the repository
